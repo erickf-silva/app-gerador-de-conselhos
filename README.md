@@ -1,5 +1,5 @@
 # Frontend Mentor | Advice generator app
-O principal desafio é construir um aplicativo que gere conselhos aleatórios. Nessa primeira etapa será realizado apenas a construção do HTML e CSS.
+O principal desafio é construir um aplicativo que gere conselhos aleatórios.
 
 ## Índice
 
@@ -11,17 +11,20 @@ O principal desafio é construir um aplicativo que gere conselhos aleatórios. N
 
 ### Design desktop 🖥️
 
-<img src="design/desktop-design.png" alt="desktop design">
+<img src="design/desktop-design.gif" alt="desktop design">
 
 ### Design mobile 📱
 
-<img src="design/mobile-design.png" alt="mobile design">
+<img src="design/mobile-design.gif" alt="mobile design">
 
 ## Links
 
 - Desafio do Frontend Mentor: [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
+- Link do projeto: [Visualizar projeto](https://erickf-silva.github.io/app-gerador-de-conselhos/)
+
 ## Tecnologias utilizadas
 
 - HTML
 - CSS
+- JS
