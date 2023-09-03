@@ -1,15 +1,11 @@
-@media (max-width: 576px) {
-    .card {
-        width: 300px;
-        margin: 15px;
-    }
-
+@media(min-width: 768px) {
     .advice {
-        margin: 18px 14px 10px;
-        font-size: 22px;
+        padding-inline: 50px;
+        width: 386px;
     }
 
-    picture img {
-        width: 260px;
+    .advice p {
+        font-size: 21px;
+        padding: 26px;
     }
 }
